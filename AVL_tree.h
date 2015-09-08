@@ -1,3 +1,9 @@
+/*
+
+This file contains the header associated with the AVL_tree.c implementation file
+
+*/
+
 #ifndef AVL_TREE_H
 #define AVL_TREE_H
 

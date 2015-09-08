@@ -1,3 +1,9 @@
+/*
+
+String manipulation module header
+
+*/
+
 #ifndef MY_STRING_H
 #define MY_STRING_H
 

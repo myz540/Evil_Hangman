@@ -1,3 +1,9 @@
+/*
+
+Unit test driver, requires the my_string module and unit_test header files to run
+
+*/
+
 #include "my_string.h"
 #include "unit_test.h"
 

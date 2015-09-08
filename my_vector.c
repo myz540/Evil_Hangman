@@ -1,3 +1,9 @@
+/*
+
+Vector object module implementation
+
+*/
+
 #include "my_vector.h"
 
 //Precondition: hMy_vector holds the address of an opaque object of type MY_VECTOR ready to be destroyed.

@@ -1,3 +1,9 @@
+/*
+
+String manipulation module for C
+
+*/
+
 #include <ctype.h>
 #include "my_string.h"
 
