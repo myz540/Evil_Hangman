@@ -1,6 +1,8 @@
 /*
+
 This file contains the implementation of the AVL tree used to store the bins 
-which will be used to in the Evil_Hangman game
+which will be used to in the Evil_Hangman game, associated with AVL_tree.h header
+
 */
 
 #include "AVL_tree.h"
