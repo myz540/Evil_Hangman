@@ -1,3 +1,9 @@
+/*
+
+Vector object header file
+
+*/
+
 #ifndef MY_VECTOR_H
 #define MY_VECTOR_H
 
