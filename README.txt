@@ -1,3 +1,5 @@
+This project was created for CS102 for Umass Lowell Summer 2015 under Professor David Adams
+
 Brett Lundy and Mike Zhong first created a working build of the evil_hangman game
 using a linked list implementation. Once we had the main function working,
 we implemented the AVL_tree.c and tested it independently of main. 
